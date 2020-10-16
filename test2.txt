@@ -1,0 +1,10 @@
+Grammar
+0.8 S->NP VP
+0.3 NP->Det N
+0.2 VP->V NP
+Lexicon
+0.05 V->includes
+0.4 Det->the
+0.4 Det->a
+0.01 N->meal
+0.02 N->flight
